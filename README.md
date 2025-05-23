@@ -1,4 +1,4 @@
-Öl#📜 Dokumentation
+#📜 Dokumentation
 
 Die vollständige Dokumentation findest du im Ordner docs/.
 
