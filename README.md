@@ -1,4 +1,4 @@
-#📜 Dokumentation
+Öl#📜 Dokumentation
 
 Die vollständige Dokumentation findest du im Ordner docs/.
 
@@ -32,4 +32,4 @@ Für Fragen oder Vorschläge kannst du mich hier erreichen:
 
 • GitHub: Imagesse
 
-• E-Mail: [Deine E-Mail-Adresse hier einfügen]
+• E-Mail: Imagesse@web13064.cweb06.gamingcontrol.de
